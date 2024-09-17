@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays_problems/Arrays_problems.iml" filepath="$PROJECT_DIR$/Arrays_problems/Arrays_problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA_ByUsingJava.iml" filepath="$PROJECT_DIR$/DSA_ByUsingJava.iml" />
+    </modules>
+  </component>
+</project>
